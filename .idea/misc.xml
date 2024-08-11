@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/QuizService/pom.xml" />
+        <option value="$PROJECT_DIR$/QuestionService/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceRegiser/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceRegister/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
       </list>
     </option>
   </component>
