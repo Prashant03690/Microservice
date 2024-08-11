@@ -12,7 +12,7 @@
 	<artifactId>QuestionService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>QuestionService</name>
-	<description>This is question service</description>
+	<description>Question Service</description>
 	<url/>
 	<licenses>
 		<license/>
